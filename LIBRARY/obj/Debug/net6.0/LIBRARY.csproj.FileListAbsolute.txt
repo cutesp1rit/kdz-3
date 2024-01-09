@@ -1,0 +1,11 @@
+C:\Users\lenovo\source\repos\KDZ-3\LIBRARY\bin\Debug\net6.0\LIBRARY.deps.json
+C:\Users\lenovo\source\repos\KDZ-3\LIBRARY\bin\Debug\net6.0\LIBRARY.dll
+C:\Users\lenovo\source\repos\KDZ-3\LIBRARY\bin\Debug\net6.0\LIBRARY.pdb
+C:\Users\lenovo\source\repos\KDZ-3\LIBRARY\obj\Debug\net6.0\LIBRARY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\KDZ-3\LIBRARY\obj\Debug\net6.0\LIBRARY.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\KDZ-3\LIBRARY\obj\Debug\net6.0\LIBRARY.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\KDZ-3\LIBRARY\obj\Debug\net6.0\LIBRARY.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\KDZ-3\LIBRARY\obj\Debug\net6.0\LIBRARY.dll
+C:\Users\lenovo\source\repos\KDZ-3\LIBRARY\obj\Debug\net6.0\refint\LIBRARY.dll
+C:\Users\lenovo\source\repos\KDZ-3\LIBRARY\obj\Debug\net6.0\LIBRARY.pdb
+C:\Users\lenovo\source\repos\KDZ-3\LIBRARY\obj\Debug\net6.0\ref\LIBRARY.dll
